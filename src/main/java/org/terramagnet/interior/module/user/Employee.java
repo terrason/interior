@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.jterraghost.interior.module.user;
+package org.terramagnet.interior.module.user;
 
 /**
  * 员工.

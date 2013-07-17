@@ -2,15 +2,18 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.jterraghost.interior.module.user;
+package org.terramagnet.interior.common;
+
+import java.util.Map;
 
 /**
- * 职能.
+ * 业务字典.
  * @author lee
  */
-public class Office {
+public class Dictionary {
     private Long id;
     private String name;
+    private Map<Long,String> items;
 
     public Long getId() {
         return id;
@@ -26,6 +29,14 @@ public class Office {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public Map<Long, String> getItems() {
+        return items;
+    }
+
+    public void setItems(Map<Long, String> items) {
+        this.items = items;
     }
     
 }

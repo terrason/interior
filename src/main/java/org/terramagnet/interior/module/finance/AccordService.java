@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.jterraghost.interior.module.finance;
+package org.terramagnet.interior.module.finance;
 
 /**
  * 单据模块.

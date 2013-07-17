@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.jterraghost.interior.common;
+package org.terramagnet.interior.common;
 
 import java.util.Collection;
 import java.util.Map;

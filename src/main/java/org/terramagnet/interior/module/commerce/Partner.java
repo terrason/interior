@@ -2,10 +2,10 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.jterraghost.interior.module.commerce;
+package org.terramagnet.interior.module.commerce;
 
 import java.util.Collection;
-import org.jterraghost.interior.common.ContactInfo;
+import org.terramagnet.interior.common.ContactInfo;
 
 /**
  * 合作伙伴.
